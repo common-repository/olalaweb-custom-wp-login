@@ -1,0 +1,7 @@
+/* settings page */
+iframe { min-width: 100%; width: 100%; min-height: 650px; height: 100%;}
+table { min-width: 100%; width: 100%; text-align:center;}
+input[name="sizes"] { border:#000 1px solid; }
+.margin { background:#515151; color: #fff;}
+.padding { background:#ccc; }
+.width, .height { background: #EDEDED; }
